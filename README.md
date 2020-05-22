@@ -18,6 +18,12 @@ Person C should modify content here.
 
 Person D should modify content here.
 
+## Person F:
+
+All my Ada Teammates are the literal best.  I am so glad to know you all!
+
+
+
 ## Need inspiration?
 
 Need inspiration for what kinds of files to make or change?
