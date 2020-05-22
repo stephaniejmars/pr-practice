@@ -12,7 +12,7 @@ Person B should modify content here.
 
 ## Person C:
 
-Person C (mair) just told you about her favorite color! check it out:) 
+Person C should modify content here.
 
 ## Person D:
 
